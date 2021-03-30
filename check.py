@@ -6,3 +6,5 @@ print('Hello world.')
 # mark to success test is not allow
 
 # build trigger test 2
+
+fail check 
