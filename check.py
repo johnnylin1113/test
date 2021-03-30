@@ -3,4 +3,4 @@
 print('Hello world.')
 
 # failure check
-test is not allow
+# mark to success test is not allow
